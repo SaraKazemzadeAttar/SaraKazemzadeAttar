@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarakazemzadeattar" alt="sarakazemzadeattar" /></a> </p>
 
-- 🌱 I’m currently learning **Docker and Front-end**
+- 🌱 I’m currently learning **Docker , implemention of telegram robots and Front-end**
 
 - 📫 How to reach me **Sara.kazemzade.atar2004@gmail.com**
 
