@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Sara Kazemzade Attar</h1>
-<h3 align="center">Computer Engineer Student & backend developer</h3>
+<h3 align="center">Computer Engineer Student And backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarakazemzadeattar&label=Profile%20views&color=0e75b6&style=flat" alt="sarakazemzadeattar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarakazemzadeattar" alt="sarakazemzadeattar" /></a> </p>
 
-- 🌱 I’m currently learning **Docker , implemention of telegram robots and Front-end**
+- 🌱 I’m currently learning **Docker and Front-end**
 
 - 📫 How to reach me **Sara.kazemzade.atar2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sara-kazemzade-attar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sara-kazemzade-attar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sara-kazemzade-attar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sara-kazemzade-attar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
